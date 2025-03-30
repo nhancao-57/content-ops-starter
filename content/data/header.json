@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Pg",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Đăng ký",
             "altText": "Blog",
             "url": "/blog",
