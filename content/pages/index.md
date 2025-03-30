@@ -11,7 +11,7 @@ sections:
     text: |
       Ngoại ngữ Pala - test website
     actions:
-      - label: Get started
+      - label: Đăng ký
         altText: ''
         url: /
         showIcon: false
