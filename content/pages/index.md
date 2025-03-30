@@ -34,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: WEB THỬ NGHIỆM
+      label: TEST VERSION
       color: text-primary
       type: Badge
     elementId: ''
