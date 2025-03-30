@@ -20,7 +20,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Khám phá thêm
         altText: ''
         url: /
         showIcon: true
