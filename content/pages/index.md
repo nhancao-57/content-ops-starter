@@ -7,7 +7,7 @@ sections:
       text: Trung tâm Ngoại ngữ Pala
       color: text-dark
       type: TitleBlock
-    subtitle: At Pala
+    subtitle: 'At Pala, learning is a Gala'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
