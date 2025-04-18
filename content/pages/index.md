@@ -645,5 +645,6 @@ seo:
   metaDescription: Chào mừng bạn đến với trang web chính thức của Trung tâm Ngoại ngữ Pala!
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
