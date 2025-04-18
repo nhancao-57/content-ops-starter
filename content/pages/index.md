@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: 'At Pala, learning is a Gala'
     text: |
-      Ngoại ngữ Pala - test website
+      Welcome to Pala English Center! 
     actions:
       - label: Đăng ký
         altText: ''
