@@ -641,7 +641,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Ngoại ngữ Pala - Pala Language Center
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
