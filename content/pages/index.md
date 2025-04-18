@@ -643,7 +643,7 @@ sections:
 seo:
   metaTitle: Ngoại ngữ Pala - Pala Language Center
   metaDescription: Chào mừng bạn đến với trang web chính thức của Trung tâm Ngoại ngữ Pala!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/PLC-Logo_FA_Horizontal - COLOUR.svg
   type: Seo
   addTitleSuffix: true
 type: PageLayout
