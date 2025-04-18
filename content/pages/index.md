@@ -642,7 +642,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Ngoại ngữ Pala - Pala Language Center
-  metaDescription: Chào mừng bạn đến với trang web chính thức của Trung tâm Ngoại ngữ Pala
+  metaDescription: Chào mừng bạn đến với trang web chính thức của Trung tâm Ngoại ngữ Pala!
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
