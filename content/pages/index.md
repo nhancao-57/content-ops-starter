@@ -34,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: TEST VERSION
+      label: this website is under development
       color: text-primary
       type: Badge
     elementId: ''
