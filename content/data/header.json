@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/PLC-Logo_FA_Horizontal - COLOUR.png",
+        "url": "public/images/PLC-Logo_FA_Symbol - COLOUR.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
